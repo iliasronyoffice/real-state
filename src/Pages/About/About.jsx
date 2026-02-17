@@ -1,7 +1,7 @@
 import PagesCoverImg from "../../Shared/PagesCoverImg/PagesCoverImg";
 import PagesTitle from "../../Shared/PagesTitle/PagesTitle";
 import AboutUs from "./AboutUs/AboutUs";
-import AchievementsCounts from "./achievementsCounts/achievementsCounts";
+import AchievementsCounts from "./AchievementsCounts/AchievementsCounts";
 import GallerySection from "./GallerySection/GallerySection";
 import OurMissionAndVision from "./OurMissionAndVision/OurMissionAndVision";
 
