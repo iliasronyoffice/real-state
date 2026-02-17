@@ -31,7 +31,7 @@ import BlogsSection from "../AdminDashBoard/BlogPages/BlogsSection/BlogsSection"
 import CareerHeroSection from "../AdminDashBoard/CareerPages/CareerHeroSection/CareerHeroSection";
 // import CareerDepartmentsSection from "../AdminDashBoard/CareerPages/CareerDepartmentsSection/CareerDepartmentsSection";
 import AddressSection from "../AdminDashBoard/contactUsPages/AddressSection/AddressSection";
-import ContactUsHeroSection from "../AdminDashBoard/contactUsPages/contactUsHeroSection/contactUsHeroSection";
+import ContactUsHeroSection from "../AdminDashBoard/contactUsPages/ContactUsHeroSection/ContactUsHeroSection";
 import DashBoard from "../AdminDashBoard/DashBoard/DashBoard";
 import BannerSection from "../AdminDashBoard/HomePage/BannerSection/BannerSection";
 import VideoSection from "../AdminDashBoard/HomePage/VideoSection/VideoSection";
