@@ -1,0 +1,312 @@
+[
+     {
+          "id": 1,
+          "propertyname": "ICON TOWER",
+          "location": "Gulshan",
+          "title": "RESIDENTIAL",
+          "types": "upComing",
+          "landArea": "1.75 Katha",
+          "orientation": "North",
+          "frontRoad": "30 feet",
+          "apartmentSize": {
+               "A": "650 sft.",
+               "B": "650 sft."
+          },
+          "residentialFloors": "G+5",
+          "numberOfParking": 2,
+          "numberOfElevator": 0,
+          "handoverDate": "November 2020",
+          "img": "https://sheltech.com.bd/CMS/admin/uploads/product/sheltech-aziz-residences/1736248691pB0k6.jpg",
+          "gallery": [
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687848786790h7.jpg",
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687848818481ka.jpg",
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687848843FFa6e.jpg",
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687848958kITV6.jpg",
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687848965mRqJ1.jpg",
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687848949UWEpP.jpg",
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687849057ZSf3e.jpg",
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687849036m4m0W.jpg",
+               "https://concordrealestatebd.com/wp-content/uploads/2024/12/Concord-Quasem-Waterfront-Luxurious-Apartment-for-Sale-in-Dhanmondi-12.jpg"
+          ],
+          "locationMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5693.392691419241!2d90.41286578742421!3d23.823775529176682!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c65a3d9b9649%3A0xff4da0194c977480!2sNikunja%201%2C%20Dhaka!5e1!3m2!1sen!2sbd!4v1737030847953!5m2!1sen!2sbd"
+     },
+     {
+          "id": 2,
+          "propertyname": "Residential",
+          "location": "Banani",
+          "title": "RESIDENTIAL",
+          "types": "upComing",
+          "landArea": "1.75 Katha",
+          "orientation": "North",
+          "frontRoad": "30 feet",
+          "apartmentSize": {
+               "A": "650 sft.",
+               "B": "650 sft."
+          },
+          "residentialFloors": "G+5",
+          "numberOfParking": 2,
+          "numberOfElevator": 0,
+          "handoverDate": "November 2020",
+          "img": "https://baydevelopments.com/wp-content/uploads/2021/02/Bays-23-GA.jpg",
+          "gallery": [
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687848786790h7.jpg",
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687848818481ka.jpg",
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687848843FFa6e.jpg",
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687848958kITV6.jpg",
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687848965mRqJ1.jpg",
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687848949UWEpP.jpg",
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687849057ZSf3e.jpg",
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687849036m4m0W.jpg",
+               "https://concordrealestatebd.com/wp-content/uploads/2024/12/Concord-Quasem-Waterfront-Luxurious-Apartment-for-Sale-in-Dhanmondi-12.jpg"
+          ],
+          "locationMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5693.392691419241!2d90.41286578742421!3d23.823775529176682!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c65a3d9b9649%3A0xff4da0194c977480!2sNikunja%201%2C%20Dhaka!5e1!3m2!1sen!2sbd!4v1737030847953!5m2!1sen!2sbd"
+     },
+     {
+          "id": 3,
+          "propertyname": "THE IMPERIAL",
+          "location": "Bashundhara Residential Area",
+          "title": "RESIDENTIAL",
+          "types": "upComing",
+          "landArea": "1.75 Katha",
+          "orientation": "North",
+          "frontRoad": "30 feet",
+          "apartmentSize": {
+               "A": "650 sft.",
+               "B": "650 sft."
+          },
+          "residentialFloors": "G+5",
+          "numberOfParking": 2,
+          "numberOfElevator": 0,
+          "handoverDate": "November 2020",
+          "img": "https://baydevelopments.com/wp-content/uploads/2021/06/Bay-Arvia.jpg",
+          "gallery": [
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687848786790h7.jpg",
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687848818481ka.jpg",
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687848843FFa6e.jpg",
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687848958kITV6.jpg",
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687848965mRqJ1.jpg",
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687848949UWEpP.jpg",
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687849057ZSf3e.jpg",
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687849036m4m0W.jpg",
+               "https://concordrealestatebd.com/wp-content/uploads/2024/12/Concord-Quasem-Waterfront-Luxurious-Apartment-for-Sale-in-Dhanmondi-12.jpg"
+          ],
+          "locationMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5693.392691419241!2d90.41286578742421!3d23.823775529176682!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c65a3d9b9649%3A0xff4da0194c977480!2sNikunja%201%2C%20Dhaka!5e1!3m2!1sen!2sbd!4v1737030847953!5m2!1sen!2sbd"
+     },
+     {
+          "id": 4,
+          "propertyname": "MINERVA",
+          "location": "Bashundhara R/A",
+          "title": "RESIDENTIAL",
+          "types": "upComing",
+          "landArea": "1.75 Katha",
+          "orientation": "North",
+          "frontRoad": "30 feet",
+          "apartmentSize": {
+               "A": "650 sft.",
+               "B": "650 sft."
+          },
+          "residentialFloors": "G+5",
+          "numberOfParking": 2,
+          "numberOfElevator": 0,
+          "handoverDate": "November 2020",
+          "img": "https://baydevelopments.com/wp-content/uploads/2021/02/Bays-Bellavista.jpg",
+          "gallery": [
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687848786790h7.jpg",
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687848818481ka.jpg",
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687848843FFa6e.jpg",
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687848958kITV6.jpg",
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687848965mRqJ1.jpg",
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687848949UWEpP.jpg",
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687849057ZSf3e.jpg",
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687849036m4m0W.jpg",
+               "https://concordrealestatebd.com/wp-content/uploads/2024/12/Concord-Quasem-Waterfront-Luxurious-Apartment-for-Sale-in-Dhanmondi-12.jpg"
+          ],
+          "locationMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5693.392691419241!2d90.41286578742421!3d23.823775529176682!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c65a3d9b9649%3A0xff4da0194c977480!2sNikunja%201%2C%20Dhaka!5e1!3m2!1sen!2sbd!4v1737030847953!5m2!1sen!2sbd"
+     },
+     {
+          "id": 5,
+          "propertyname": "CELESTA",
+          "location": "Dhanmondi R/A",
+          "title": "RESIDENTIAL",
+          "types": "upComing",
+          "landArea": "1.75 Katha",
+          "orientation": "North",
+          "frontRoad": "30 feet",
+          "apartmentSize": {
+               "A": "650 sft.",
+               "B": "650 sft."
+          },
+          "residentialFloors": "G+5",
+          "numberOfParking": 2,
+          "numberOfElevator": 0,
+          "handoverDate": "November 2020",
+          "img": "https://rancondevelopments.com/media/images/GPH_01.2e16d0ba.fill-425x387.jpg",
+          "gallery": [
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687848786790h7.jpg",
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687848818481ka.jpg",
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687848843FFa6e.jpg",
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687848958kITV6.jpg",
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687848965mRqJ1.jpg",
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687848949UWEpP.jpg",
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687849057ZSf3e.jpg",
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687849036m4m0W.jpg",
+               "https://concordrealestatebd.com/wp-content/uploads/2024/12/Concord-Quasem-Waterfront-Luxurious-Apartment-for-Sale-in-Dhanmondi-12.jpg"
+          ],
+          "locationMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5693.392691419241!2d90.41286578742421!3d23.823775529176682!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c65a3d9b9649%3A0xff4da0194c977480!2sNikunja%201%2C%20Dhaka!5e1!3m2!1sen!2sbd!4v1737030847953!5m2!1sen!2sbd"
+     },
+     {
+          "id": 6,
+          "propertyname": "AVELINE",
+          "location": "Bashundhara R/A",
+          "title": "RESIDENTIAL",
+          "types": "upComing",
+          "landArea": "1.75 Katha",
+          "orientation": "North",
+          "frontRoad": "30 feet",
+          "apartmentSize": {
+               "A": "650 sft.",
+               "B": "650 sft."
+          },
+          "residentialFloors": "G+5",
+          "numberOfParking": 2,
+          "numberOfElevator": 0,
+          "handoverDate": "November 2020",
+          "img": "https://rancondevelopments.com/media/images/01_eJwa1Wx.2e16d0ba.fill-425x387.jpg",
+          "gallery": [
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687848786790h7.jpg",
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687848818481ka.jpg",
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687848843FFa6e.jpg",
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687848958kITV6.jpg",
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687848965mRqJ1.jpg",
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687848949UWEpP.jpg",
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687849057ZSf3e.jpg",
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687849036m4m0W.jpg",
+               "https://concordrealestatebd.com/wp-content/uploads/2024/12/Concord-Quasem-Waterfront-Luxurious-Apartment-for-Sale-in-Dhanmondi-12.jpg"
+          ],
+          "locationMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5693.392691419241!2d90.41286578742421!3d23.823775529176682!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c65a3d9b9649%3A0xff4da0194c977480!2sNikunja%201%2C%20Dhaka!5e1!3m2!1sen!2sbd!4v1737030847953!5m2!1sen!2sbd"
+     },
+     {
+          "id": 7,
+          "propertyname": "ENSO",
+          "location": "Bashundhara R/A",
+          "title": "RESIDENTIAL",
+          "types": "completed",
+          "landArea": "1.75 Katha",
+          "orientation": "North",
+          "frontRoad": "30 feet",
+          "apartmentSize": {
+               "A": "650 sft.",
+               "B": "650 sft."
+          },
+          "residentialFloors": "G+5",
+          "numberOfParking": 2,
+          "numberOfElevator": 0,
+          "handoverDate": "November 2020",
+          "img": "https://rancondevelopments.com/media/images/21.2e16d0ba.fill-425x387.jpg",
+          "gallery": [
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687848786790h7.jpg",
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687848818481ka.jpg",
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687848843FFa6e.jpg",
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687848958kITV6.jpg",
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687848965mRqJ1.jpg",
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687848949UWEpP.jpg",
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687849057ZSf3e.jpg",
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687849036m4m0W.jpg",
+               "https://concordrealestatebd.com/wp-content/uploads/2024/12/Concord-Quasem-Waterfront-Luxurious-Apartment-for-Sale-in-Dhanmondi-12.jpg"
+          ],
+          "locationMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5693.392691419241!2d90.41286578742421!3d23.823775529176682!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c65a3d9b9649%3A0xff4da0194c977480!2sNikunja%201%2C%20Dhaka!5e1!3m2!1sen!2sbd!4v1737030847953!5m2!1sen!2sbd"
+     },
+     {
+          "id": 8,
+          "propertyname": "RANCON AVENUE 102",
+          "location": "Gulshan",
+          "title": "Commercial",
+          "types": "completed",
+          "landArea": "1.75 Katha",
+          "orientation": "North",
+          "frontRoad": "30 feet",
+          "apartmentSize": {
+               "A": "650 sft.",
+               "B": "650 sft."
+          },
+          "residentialFloors": "G+5",
+          "numberOfParking": 2,
+          "numberOfElevator": 0,
+          "handoverDate": "November 2020",
+          "img": "https://rancondevelopments.com/media/images/Back_day_cam_022.2e16d0ba.fill-425x387.jpg",
+          "gallery": [
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687848786790h7.jpg",
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687848818481ka.jpg",
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687848843FFa6e.jpg",
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687848958kITV6.jpg",
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687848965mRqJ1.jpg",
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687848949UWEpP.jpg",
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687849057ZSf3e.jpg",
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687849036m4m0W.jpg",
+               "https://concordrealestatebd.com/wp-content/uploads/2024/12/Concord-Quasem-Waterfront-Luxurious-Apartment-for-Sale-in-Dhanmondi-12.jpg"
+          ],
+          "locationMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5693.392691419241!2d90.41286578742421!3d23.823775529176682!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c65a3d9b9649%3A0xff4da0194c977480!2sNikunja%201%2C%20Dhaka!5e1!3m2!1sen!2sbd!4v1737030847953!5m2!1sen!2sbd"
+     },
+     {
+          "id": 9,
+          "propertyname": "THE IMPERIAL",
+          "location": "Bashundhara",
+          "title": "RESIDENTIAL",
+          "types": "completed",
+          "landArea": "1.75 Katha",
+          "orientation": "North",
+          "frontRoad": "30 feet",
+          "apartmentSize": {
+               "A": "650 sft.",
+               "B": "650 sft."
+          },
+          "residentialFloors": "G+5",
+          "numberOfParking": 2,
+          "numberOfElevator": 0,
+          "handoverDate": "November 2020",
+          "img": "https://rancondevelopments.com/media/images/Minerva_1_wrt9FdG.2e16d0ba.fill-425x387.jpg",
+          "gallery": [
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687848786790h7.jpg",
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687848818481ka.jpg",
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687848843FFa6e.jpg",
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687848958kITV6.jpg",
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687848965mRqJ1.jpg",
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687848949UWEpP.jpg",
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687849057ZSf3e.jpg",
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687849036m4m0W.jpg",
+               "https://concordrealestatebd.com/wp-content/uploads/2024/12/Concord-Quasem-Waterfront-Luxurious-Apartment-for-Sale-in-Dhanmondi-12.jpg"
+          ],
+          "locationMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5693.392691419241!2d90.41286578742421!3d23.823775529176682!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c65a3d9b9649%3A0xff4da0194c977480!2sNikunja%201%2C%20Dhaka!5e1!3m2!1sen!2sbd!4v1737030847953!5m2!1sen!2sbd"
+     },
+     {
+          "id": 10,
+          "propertyname": "ICON TOWER",
+          "location": "Gulshan",
+          "title": "Commercial",
+          "types": "completed",
+          "landArea": "1.75 Katha",
+          "orientation": "North",
+          "frontRoad": "30 feet",
+          "apartmentSize": {
+               "A": "650 sft.",
+               "B": "650 sft."
+          },
+          "residentialFloors": "G+5",
+          "numberOfParking": 2,
+          "numberOfElevator": 0,
+          "handoverDate": "November 2020",
+          "img": "https://rancondevelopments.com/media/images/1_fKCJH0S.2e16d0ba.fill-425x387.jpg",
+          "gallery": [
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687848786790h7.jpg",
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687848818481ka.jpg",
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687848843FFa6e.jpg",
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687848958kITV6.jpg",
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687848965mRqJ1.jpg",
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687848949UWEpP.jpg",
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687849057ZSf3e.jpg",
+               "https://anwarlandmark.com/admin/uploads/product/anwar-landmark-gold-dust/1687849036m4m0W.jpg",
+               "https://concordrealestatebd.com/wp-content/uploads/2024/12/Concord-Quasem-Waterfront-Luxurious-Apartment-for-Sale-in-Dhanmondi-12.jpg"
+          ],
+          "locationMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5693.392691419241!2d90.41286578742421!3d23.823775529176682!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c65a3d9b9649%3A0xff4da0194c977480!2sNikunja%201%2C%20Dhaka!5e1!3m2!1sen!2sbd!4v1737030847953!5m2!1sen!2sbd"
+     }
+]
