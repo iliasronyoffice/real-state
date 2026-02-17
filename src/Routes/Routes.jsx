@@ -21,7 +21,7 @@ import PortfolioFirst from "../AdminDashBoard/HomePage/PortfolioSection/Portfoli
 import PortfolioSecond from "../AdminDashBoard/HomePage/PortfolioSection/PortfolioSecond ";
 import HeroSection from "../AdminDashBoard/AboutPages/HeroSection/HeroSection";
 import AboutUsSection from "../AdminDashBoard/AboutPages/AboutUsSection/AboutUsSection";
-import AchievementsCountsSection from "../AdminDashBoard/AboutPages/achievementsCountsSection/achievementsCountsSection";
+import AchievementsCountsSection from "../AdminDashBoard/AboutPages/AchievementsCountsSection/AchievementsCountsSection";
 import OurMissionSection from "../AdminDashBoard/AboutPages/OurMissionSection/OurMissionSection";
 import OurVisionSection from "../AdminDashBoard/AboutPages/OurVisionSection/OurVisionSection";
 import ImgGallerySection from "../AdminDashBoard/AboutPages/ImgGallerySection/ImgGallerySection";
